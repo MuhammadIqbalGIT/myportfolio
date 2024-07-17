@@ -343,6 +343,15 @@
     letter-spacing: -0.25px;
     margin-bottom: 10px;
   }
+
+
+ 
+  .lingkaran1{
+	width: 180px;
+	height: 180px;
+	background: #dac52c;
+	border-radius: 100%; 
+  }
   
   .info-content .title {
     color: var(--white-1);
